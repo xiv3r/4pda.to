@@ -8,7 +8,7 @@
 
 <img align="center" width="500" height="500" src="https://github.com/xiv3r/4pda.to/blob/main/main/Screenshot_20231227_115135.jpg">
 
-3. download image to text scanner
+3. [Download](https://github.com/xiv3r/4pda.to/releases/download/App/Text.Scanner.v4.5.3.Premium.apk) image to text scanner
 
 4. open image to text scanner and scan those previously screenshot from 4pda
 
