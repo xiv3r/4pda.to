@@ -24,4 +24,4 @@
 
 6. bard.google.com give you the 4 digits numbers and then paste it on the registration form of 4pda.to
 
-7. 4pda will send you a confirmation through email
+7. 4pda will send you a confirmation through an email
